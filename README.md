@@ -8,3 +8,6 @@ We used cross-validation to improve our accuracy and early stopping in order to 
 
 Dataset has been taken from https://www.kaggle.com/yogirj/churn-modelling
 Thank you to Kaggle and anyone behind this dataset.
+
+
+In the end we were changing hyperparameters empirically in order to improve accuracy of the model
